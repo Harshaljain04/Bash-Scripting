@@ -6,10 +6,12 @@
 # then
 # 	condition
 # fi
-
-Name="Honey"
+echo "Enter your Name: "
+read Name
 
 if [ "$Name" = "Honey" ]
 	then
 		echo "True"
+else
+echo "False"
 fi
