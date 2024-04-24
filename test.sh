@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ -e /usr/share/wordlists/rockyou.txt ];
+if [ -e /etc/shadow ];
 then
 	echo "Yes it exists"
 else
