@@ -1,3 +1,10 @@
-# Bash-Scripting
+# Bash-Scripting 
 
-This repo is a collection of my practise scripts of learnnig Bash and Shell scripting.
+This repo is a collection of my scripts of learnnig Bash/Shell scripting.
+
+# How to run the scripts
+
+```yaml
+cd /location/directory
+./filename.sh
+```
