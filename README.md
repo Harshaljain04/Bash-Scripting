@@ -13,3 +13,6 @@ cd /location/directory
 ```yaml
 chmod +x filename.sh
 ```
+Feel free to make any changes to the scripts and create pull requests to merge so that everyone can test it.
+
+Happy Coding :)
